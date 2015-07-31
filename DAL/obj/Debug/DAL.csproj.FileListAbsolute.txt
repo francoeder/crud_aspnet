@@ -1,0 +1,4 @@
+C:\Projetos\projetos-visual-studio\crud-completo\CRUD\DAL\bin\Debug\DAL.dll
+C:\Projetos\projetos-visual-studio\crud-completo\CRUD\DAL\bin\Debug\DAL.pdb
+C:\Projetos\projetos-visual-studio\crud-completo\CRUD\DAL\obj\Debug\DAL.dll
+C:\Projetos\projetos-visual-studio\crud-completo\CRUD\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,8 @@
+C:\Projetos\projetos-visual-studio\crud-completo\CRUD\Site\bin\Site.dll.config
+C:\Projetos\projetos-visual-studio\crud-completo\CRUD\Site\bin\Site.dll
+C:\Projetos\projetos-visual-studio\crud-completo\CRUD\Site\bin\Site.pdb
+C:\Projetos\projetos-visual-studio\crud-completo\CRUD\Site\bin\DAL.dll
+C:\Projetos\projetos-visual-studio\crud-completo\CRUD\Site\bin\DAL.pdb
+C:\Projetos\projetos-visual-studio\crud-completo\CRUD\Site\obj\Debug\Site.csprojResolveAssemblyReference.cache
+C:\Projetos\projetos-visual-studio\crud-completo\CRUD\Site\obj\Debug\Site.dll
+C:\Projetos\projetos-visual-studio\crud-completo\CRUD\Site\obj\Debug\Site.pdb
